@@ -1,0 +1,29 @@
+.App {
+  text-align: center;
+  padding: 50px;
+}
+
+button {
+  padding: 12px;
+  font-size: 20px;
+  color: rgb(255, 255, 255);
+  width: 240px;
+  background: rgb(34, 78, 221);
+  cursor: pointer;
+  border-radius: 25px;
+}
+
+.read {
+  background: green;
+}
+
+input {
+  padding: 12px;
+  font-size: 20px;
+  margin: 20px;
+}
+
+/* 
+h2 {
+  color: blueviolet;
+} */
